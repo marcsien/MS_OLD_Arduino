@@ -1,0 +1,1 @@
+nie znalaz³em bibliteki z takim elementem wiec w schemacie laser bêdzie jako dioda i rezystor, zupe³nie jak w tym module 
